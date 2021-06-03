@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lodrs [sic] and Commons assembled in Parliament for the contribution of the value of one meale in the weeke towards the charge of arming and forming into regiments the auxiliare forces now in raysing within the city of London and lines of communication : and for the better execution of the severall ordinances of the militia within these parts and places, according to the tenor of the same ordinances : with the names of the treasurers of the severall divisions.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22135</idno><idno type="EEBO-CITATION">11998048</idno>
+  <idno type="VID">196621</idno>
+  <idno type="EEBO-PROQUEST">2248548440</idno>
+  
+            <idno type="STC">Wing E1964</idno>
+            <idno type="OCLC">11998048</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196621)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 235:E39, no 15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lodrs [sic] and Commons assembled in Parliament for the contribution of the value of one meale in the weeke towards the charge of arming and forming into regiments the auxiliare forces now in raysing within the city of London and lines of communication : and for the better execution of the severall ordinances of the militia within these parts and places, according to the tenor of the same ordinances : with the names of the treasurers of the severall divisions.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March 28, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196621:1"/>
+            <p> AN ORDINANCE OF THE LODRS and COMMONS Assembled in PARLIAMENT, For the Contribution of the value of one Meale in the weeke, towards the charge of Arming and forming into Regiments the Auxi<g ref="char:EOLhyphen"/>liarie Forces, now in raysing within the City of <hi>London</hi> and Lines of Communication.</p>
+            <p>And for the better execution of the severall Ordinances of the MILITIA within these parts and places, according to the Tenor of the same Ordinances.</p>
+            <p>With the Names of the Treasurers of the severall Divisions.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Martis, 26 Martii, 1644.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Lords assembled in Parliament, That this Ordinance be forthwith Printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>John Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON, Printed for <hi>John Wright</hi> in the Old-Bayley, March 28. 1644.</p>
+            <pb facs="tcp:196621:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb n="1" facs="tcp:196621:2"/>
+            <head>An Ordinance of Parliament, for the Contribution of the value of one Meale in the weeke, towards the charge of arming and forming into Regiments the Auxiliary forces now in raysing within the Lines of Communication; And for the better execution of the severall Ordinances of the <hi>Militia</hi> within these parts and places <hi>according to the tenor of the same Ordinances.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Committee for the <hi>Militia of London,</hi> have for the better discharge of the great trust in them reposed (according to severall Ordinances of Parliament inabling them thereunto) authori<g ref="char:EOLhyphen"/>zed severall Sub-committees, to put in execution within the Cities of <hi>London</hi> and <hi>Westminster,</hi> Hamlets of the <hi>Tower,</hi> and the Borough of <hi>Southwark</hi> and other the parts adjacent, within the weekly Bills of Mortalitie, the severall Ordinances heretofore made for ordering the <hi>Militia</hi> of those parts and places; the speedy and due effecting whereof, will not onely much ease and relieve the Trained and Auxiliatie Bands of the pla<g ref="char:EOLhyphen"/>ces aforesaid, now much over-burdened with duty, but will also by Gods blessing upon the same apparently, tend to the better safe<g ref="char:EOLhyphen"/>guard of those places, and preservation of this present Parliament, un<g ref="char:EOLhyphen"/>der God the chiefe Bulwarke and conserver of our Religion, Lawes, and Liberties: And whereas, besides other voluntarie Contributi<g ref="char:EOLhyphen"/>ons, a chiefe meane of raysing and forming of the Auxiliarie Regi<g ref="char:EOLhyphen"/>ments already raysed in the places afore-specified, hath beene the voluntarie forbearance of one Meale in the weeke, and rendering the value of the same for the purpose aforesaid, which being begun by wel-affected persons, is conceived may be of speciall use, for raysing more Forces, buying of Armes and Ammunition, and ac<g ref="char:EOLhyphen"/>complishing
+<pb n="2" facs="tcp:196621:3"/> the intent of the said Ordinances, if convenient power be added to make that way of Contribution generall, and so as the but then may not rest alone upon the willing partie.</p>
+            <p>The Lords and Commons in Parliament Assembled, taking the premisses into their serious consideration, and being sensible of the good service alreadie performed to the State, by the Forces of the Citie and places aforesaid, and well approving of the continu<g ref="char:EOLhyphen"/>ance of the good endeavours of the said Committee; and of their Sub-committees, whereto they conceive it requisite to give all fitting assistance and encouragement, and holding it very just and reasonable, that all persons according to their abilities should in a reasonable and proportionable way contribute to the supporting of that charge and burden, which is necessarily to be undergone for the common safetie; doe for the better speeding and perfecting of the said worke, thinke fit to Order and Ordaine; And be it Ordai<g ref="char:EOLhyphen"/>ned, Declared, and established as followeth: That all and every person and persons, and their Families, residing or Inhabing within the said Cities of <hi>London</hi> &amp; <hi>Westminster,</hi> the Hamlets of the <hi>Tower,</hi> Borough of <hi>Southwark</hi> and other the Parishes and places within the Lines of Communication and weekly Bills of Mortalitie, shall pay and contribute upon each Tuesday weekely, the value of one ordi<g ref="char:EOLhyphen"/>narie Meale, to such person and persons as shall be respectively ap<g ref="char:EOLhyphen"/>poynted Collector or Collectors thereof; in such sort as is after mentioned, the same to be imployed for the ends and purposes be<g ref="char:EOLhyphen"/>fore specified, and hereafter mentioned; And for the better Or<g ref="char:EOLhyphen"/>dering, Rating, and Raysing the said Monies, It is further Ordered and Ordained, That the Alderman, Aldermans Deputie, and Com<g ref="char:EOLhyphen"/>mon-councell-men, of and for each Ward within <hi>London,</hi> and the Liberties, calling to their assistance two or more of the Sub-com<g ref="char:EOLhyphen"/>mittee, usually sitting at <hi>Salters-</hi>Hall in <hi>Bread-street,</hi> being Free<g ref="char:EOLhyphen"/>men of the Citie of <hi>London,</hi> and of the same Ward, if there be any such therein, and some other able and wel-affected persons of each Ward, and the greater part of them; And the said other Sub-com<g ref="char:EOLhyphen"/>mitrees, within their severall Limits and Divisions, or any seven or more of them respectively, shall have full power and authority, to Assesse or Tax, or nominate Assessors, to set a Rate and Tax upon each person and Familie as aforesaid; To wit, what Rate, Pro<g ref="char:EOLhyphen"/>portion,
+<pb n="3" facs="tcp:196621:3"/> or summe of Money, each person or him or her selfe, or for themselves and Families respectively; shall pay and con<g ref="char:EOLhyphen"/>tribute for the value of one Meale in the Weeke, as aforesaid; And shall appoint convenient places and fit persons within each Parish or Precinct respectively, where, and to whom the said Moneyes shall be respectively payd, by the persons so assessed and to nominate and appoint Collectors, or Receivers, to call for, and attend the receipt of the said moneyes so assessed, who are to pay over the same upon each Thursday weekely, at two of the clock in the afternoone, to the respective Treasurers hereafter mentioned, <hi>viz.</hi> The Collectors for the said City of <hi>London,</hi> and the Liberties, to <hi>John Langham</hi> Alderman, appoynted Treasurer by the Com<g ref="char:EOLhyphen"/>mon-Councell of the City of <hi>London,</hi> who shall and may upon occa<g ref="char:EOLhyphen"/>sion exchange and alter the same Officer, and appoint such other fit Officer as shall to them seeme meeete. The Collectors for the Hamlets of the <hi>Tower</hi> of <hi>London</hi> and the Liberties thereof, to M. <hi>Abraham Corsiellis,</hi> one of the Sub-committee there, which usually meets at <hi>Savage-</hi>house at <hi>Tower-</hi>hill▪ and who is appointed to be their Treasurer; The Collectors for the said City of <hi>Westminster,</hi> and Liberties thereof, and other the Liberties, Parishes, and Places within that Division, to M. <hi>Edward Carter,</hi> one of the Sub-com<g ref="char:EOLhyphen"/>mittee for that part, which usually meet and sit at the <hi>Savoy</hi> in the <hi>Strand,</hi> and appointed to be their Treasurer; The Collectors for the <hi>Borough</hi> of <hi>Southwarke,</hi> and other the Liberties and Places within the Division, to M. <hi>Richard Walker,</hi> one of the Sub-com<g ref="char:EOLhyphen"/>mittee there, which usually meet at the Vestry-House in <hi>Olaves</hi> Parish, and who is appointed to be their Treasurer; And in default of such persons appointed Treasurers aforesaid, Then to such other Treasurers as shalbe severally for such purpose appointed to wit, by the Common-Councell of <hi>London</hi> for the said City, and Liberties, and by the other Sub-committees, or any seven of them, for their Divisions respectively: which said respective Treasurers are hereby authorized to issue out the said Moneyes so gathered and received, as is hereafter mentioned, <hi>(viz)</hi> The Treasurer for the City of <hi>London,</hi> and the Liberties thereof, for recruiting of the Auxiliary Regiments already raised, raysing and preparing of more Forces, buying of Armes and Ammunition, and for such other uses, as the
+<pb n="4" facs="tcp:196621:4"/> Common-Councell of the said City of <hi>London,</hi> or such persons as they from time to time shall appoint for that purpose, <hi>being ap<g ref="char:EOLhyphen"/>proved of by both Houses of Parliament,</hi> Shall thinke fit to direct and appoint; And the Treasurers for the other parts shall issue their Monies respectively for recruiting their Auxiliary Regiments, raysing and preparing of more Forces, and Executing the Ordi<g ref="char:EOLhyphen"/>nances of the <hi>Militia,</hi> within their respective Precincts according to such Warrants and Directions as shall be given by the said Sub-Committees for the uses aforesaid, by Order to be made at the re<g ref="char:EOLhyphen"/>spective usuall places of meeting of the said Sub-Committees respectively, of whom seven at least are then and there to be present, and subscribe the same Order. And if any person or persons Assessed, or to be Assessed for the Weekely payment aforesaid, shall after demand thereof made of the person <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o As<g ref="char:EOLhyphen"/>sessed, or at his or their usuall places of Habitation or Abode faile in payment thereof; That then it shall and may be lawfull to and for the said Collectors, and every of them respectively calling to their Assistance any of the Trained Bands, Voluntiers, Constables, or others▪ who are hereby enjoyned to assist upon all Occasions, being required, to Levie double the summe or summes so assessed, together with the necessarie Charges which shall be expended in the Collecting thereof, by way of Distresse, upon his or their goods and Chattels, and shall and may fell the same Distresse or Distresses for the Services aforesaid, and the over-plus to be returned to the Owner of the Distresse taken. And if no sufficient Distresses can be found within the said Citie of <hi>London,</hi> or the Liberties, whereby the Moneyes assessed upon the persons there may be levied; Then upon Certificate thereof made by the said Sub-Committees for the Citie and Liberties, or any seven of them, being Free-men of the said Citie of <hi>London,</hi> to the Lord Mayor of the said Citie, hee is forthwith to grant his Warrant for the apprehension of the said person and persons, and for his and their Commitment to safe Cu<g ref="char:EOLhyphen"/>stodie, without Bayle or Mainptize, wheresoever hee or they are or shall be found, within Liberties or without, unlesse hee shall see just cause to the contrary. And in like case, if no sufficient Di<g ref="char:EOLhyphen"/>stresses can be found within the other respective Divisions before-mentioned, whereupon the summes assessed upon the persons there
+<pb n="5" facs="tcp:196621:4"/> may be levied; Then upon Certificate to be made in that behalfe to the respective Sub-Committees of those Divisions, the said Committee, or any seven of them, by Order to be made at their usuall place of Meeting, shall and may commit such person or per<g ref="char:EOLhyphen"/>sons to safe Custodie, without Bayle or Mainprize, wheresoever hee or they shall be found, whether within the said respective Divisions or without; the said persons so to be committed, as aforesaid, to continue in Prison untill they have fully satisfied their respective Assessements.</p>
+            <p>And be it further Ordered and Ordained, That the over or un<g ref="char:EOLhyphen"/>der-rating of any person or persons or their Families, within the said City of <hi>London,</hi> or any part thereof, shall and may upon com<g ref="char:EOLhyphen"/>plaint thereof be examined and rectified by the Common-Councell of the said City, or any Committee by them for that purpose to be appointed, or the greater part of such Committee; And if any per<g ref="char:EOLhyphen"/>son or Persons, within any the said other Divisions, be over-rated in the said Assessements, or under-rated, the same shall upon com<g ref="char:EOLhyphen"/>plaint thereof be rectified by the said Sub-Committees of that Di<g ref="char:EOLhyphen"/>vision respectively or any seven of them, according to their discreti<g ref="char:EOLhyphen"/>ons; And if any Assessors, Collectors, or Constables, within the said City of <hi>London,</hi> or the Liberties, shall refuse the said service, or prove negligent or faulty therein▪ upon Certificate thereof made by the said Sub-Committee of <hi>Saliers-</hi>Hall, or any seven of them, be<g ref="char:EOLhyphen"/>ing Free-men of the said City of <hi>London,</hi> to the Lord Major of the said City, he is forthwith to grant his Warrant for Commitment of such persons to prison, unlesse he shall see just cause to the contrary. And like power upon such occasion the said other Sub-Committees may exercise within their Limits respectively, or upon such neglect or default as aforesaid, the Common-Councell, of whom they shall appoint for <hi>London</hi> and the Liberties, and the Sub-Committees or any seven of them within their severall Divisions, may impose a fine upon the offenders▪ not exceeding the summe of Ten Pounds for every offence, the said Fuie to be levied by Distresse, and sale of the offenders goods, and the Moneyes to be imployed for the service aforesaid; And it is Ordained, That the said Treasurers re<g ref="char:EOLhyphen"/>pectively shall each of them keepe a Register-Booke of the summes received, and paid out by them, that so they may give a just and
+<pb n="6" facs="tcp:196621:5"/> perfect Account thereof, unto the said Sub-Committees, to whom they respectively belong, when they shall be by them required which shal be once Monthly at least; And the said Treasurer for <hi>London</hi> and the Liberties shall also concerning the Premisses, be ac<g ref="char:EOLhyphen"/>comptable to the Common-Councell for the said City, or such Committee as they shall thereto appoint, when he shall at any time be thereunto required; And for the better encouragement of the said Collectors and Treasurers: It is Ordained, that five pence in the Pound shal be allowed for every summe of mony, which shal be Collected and paid to the said Treasurers according to this Ordi<g ref="char:EOLhyphen"/>nance, whereof foure pence shall be to the Collectors, and one pen<g ref="char:EOLhyphen"/>ny to the Treasurer.</p>
+            <p>And be it lastly, by the said Lords and Commons further Ordai<g ref="char:EOLhyphen"/>ned, That all and every the respective Committees, Assessors, Treasurers and Collectors of the respective Divisions aforesaid, and all that shall assist them in the premisses, shall be by power of Par<g ref="char:EOLhyphen"/>liament protected and saved harmelesse, both for what, according to the true meaning of the premisses, they have done and shall doe therein for time to come.</p>
+            <p>Provided, That this Ordinance extend not to such persons as re<g ref="char:EOLhyphen"/>ceive Almes, nor shall be of longer continuance then for the space of six Moneths to begin from Tuesday next after the date hereof.</p>
+            <p>Provided also, That this Ordinance shall not extend to the using of any compulsarie power over any the Members of either House of Parliament, or any Peer, or any Assistant of the House of Peeres, or any Attendant on either House of Parliament, or any Member of the Assembly of Divines; or to give power to settle any other Rates upon any of them touching the premisses, then what they respectively will tax themselves at, or agree unto: Any thing in this present Ordinance contained to the contrarie notwith<g ref="char:EOLhyphen"/>standing.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
